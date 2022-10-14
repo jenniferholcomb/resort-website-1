@@ -1,5 +1,6 @@
 h1 {
   color: turquoise;
+  margin-left: 30px;
 }
 
 li {
@@ -12,4 +13,8 @@ li {
 
 body {
   background-color: antiquewhite;
+}
+
+img{
+  width:50%;
 }
